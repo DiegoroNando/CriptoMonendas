@@ -1,6 +1,6 @@
 
 
-export default function ErrorMessage({children}: {childre : React.ReactNode}) {
+export default function ErrorMessage({children}: {children : React.ReactNode}) {
   return (
     <div>{children}</div>
   )
